@@ -1,0 +1,2 @@
+VendaAPrazo
+VendaAVista

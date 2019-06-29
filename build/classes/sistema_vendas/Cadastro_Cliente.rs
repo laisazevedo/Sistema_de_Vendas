@@ -1,0 +1,5 @@
+Sistema_Vendas.Cadastro_Cliente$2
+Sistema_Vendas.Cadastro_Cliente$3
+Sistema_Vendas.Cadastro_Cliente$4
+Sistema_Vendas.Cadastro_Cliente$1
+Sistema_Vendas.Cadastro_Cliente

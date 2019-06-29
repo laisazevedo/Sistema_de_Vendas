@@ -1,0 +1,2 @@
+Sistema_Vendas.Consultar_Funcionario$1
+Sistema_Vendas.Consultar_Funcionario

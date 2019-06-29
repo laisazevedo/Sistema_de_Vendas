@@ -1,0 +1,2 @@
+Sistema_Vendas.Relatorio_Venda
+Sistema_Vendas.Relatorio_Venda$1

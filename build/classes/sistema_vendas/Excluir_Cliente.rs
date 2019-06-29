@@ -1,0 +1,2 @@
+Sistema_Vendas.Excluir_Cliente
+Sistema_Vendas.Excluir_Cliente$1

@@ -1,0 +1,2 @@
+Sistema_Vendas.Excluir_Funcionario
+Sistema_Vendas.Excluir_Funcionario$1
